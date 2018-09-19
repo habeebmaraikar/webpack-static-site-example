@@ -1,5 +1,6 @@
 # Reference 
 * https://www.sitepoint.com/bundle-static-site-webpack/
+* https://medium.com/riow/webpack-for-static-sites-9cbfd8363abb
 
 # How to bundle a simple static site with Webpack
 

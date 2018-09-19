@@ -1,3 +1,6 @@
+# Reference 
+* https://www.sitepoint.com/bundle-static-site-webpack/
+
 # How to bundle a simple static site with Webpack
 
 A simple skeleton project for use in a [SitePoint article](https://www.sitepoint.com/bundle-static-site-webpack) on bundling a static site using Webpack.
